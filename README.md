@@ -1,6 +1,14 @@
 # rekoda
 
-A new Flutter project.
+A recorder app with geotagging so you can see where on the map you were when the recording happened.
+
+## Demo video
+
+
+
+https://github.com/user-attachments/assets/5855e668-8656-478a-9e22-2ae79cd19e0b
+
+
 
 ## Getting Started
 
